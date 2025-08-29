@@ -45,6 +45,9 @@ The dataset used for this dashboard can be found here:
 
 Here’s a preview of the Adidas Sales & Performance Dashboard:  
 
+<img width="1240" height="749" alt="Screenshot 2025-08-29 131310" src="https://github.com/user-attachments/assets/92ad0bfb-ebd2-4398-bbdf-dedc7c44ca1f" />
+
+
 [Adidas Dashboard](https://github.com/REDspyder333/Dashboard/blob/main/Screenshot%202025-08-29%20131310.png)
 
 
