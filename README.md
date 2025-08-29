@@ -14,3 +14,6 @@ This dashboard helps in better business decision-making and strategy planning.
 - Filters for region, product, and time period  
 - Clean and user-friendly interface  
 
+## Dataset  
+The dataset used for this dashboard can be found here:  
+[Adidas US Sales Dataset](https://github.com/REDspyder333/Dashboard/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)  
