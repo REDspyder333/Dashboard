@@ -41,7 +41,7 @@ The dataset used for this dashboard can be found here:
 5. **Insights & Outcomes**  
     - Provided a quick overview of sales patterns to support decision-making.
 
-## Dashboard Screenshot  
+## Dashboard   
 
 Here’s a preview of the Adidas Sales & Performance Dashboard:  
 
